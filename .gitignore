@@ -3,8 +3,8 @@ __pycache__/
 *.pyc
 .venv/
 
-# Data (VERY IMPORTANT for you)
-data/
+# Data 
+data/raw_data/
 
 # VS Code
 .vscode/
